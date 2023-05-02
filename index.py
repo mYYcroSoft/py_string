@@ -22,7 +22,7 @@ for x in range(len(wight)):
             wight[x] = 0
 
 print(f"Loutky lze rozdělit na {len(stojan)} stojanů.")
-
+print("Můj počet mozkových buňek po splnení tohoto jednoduchého úkolu: 0.1")
 
 """
 for x in enumerate(wight):
